@@ -1,2 +1,2 @@
 # github-actions-demo
-This repo is just for demo.
+This repository is just for demo.
